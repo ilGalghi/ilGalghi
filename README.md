@@ -3,7 +3,7 @@
 - 👀 I’m interested in PCs, sports and watches.
 - 🌱 I’m currently learning C / Python / Kotlin / Java.
 
-from Rome, Italy 🇮🇹
+from Rome, Italy. 🇮🇹
 
 <!---
 ilGalghi/ilGalghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
