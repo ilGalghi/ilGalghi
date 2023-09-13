@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ilGalghi.
 - ‍🎓 I'm a Computer Engineering student.
 - 👀 I’m interested in PCs, sports and watches.
-- 🌱 I’m currently learning C / Python / Kotlin / Java.
+- ✅ Learned C / Python
+- 🌱 I’m currently learning Java / Kotlin.
 
 from Rome, Italy 🇮🇹
 
