@@ -3,7 +3,7 @@
 - ‍🎓 I'm a Computer Engineering student.
 - 👀 I’m interested in PCs, sports and watches.
 - ✅ Learned C / Python
-- 🌱 I’m currently learning Java / Kotlin
+- 🌱 I’m currently learning Java / AMPL / Kotlin
 
 from Rome, Italy 🇮🇹
 
