@@ -39,7 +39,6 @@ from Rome, Italy 🇮🇹
 
 
 
-# Skills:
 # Skills
 
 <p align="left">Skills<br>REA</p>
@@ -93,3 +92,4 @@ from Rome, Italy 🇮🇹
 </div>
 
 ---
+
