@@ -36,3 +36,7 @@ from Rome, Italy 🇮🇹
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://docs.microsoft.com/en-us/powershell/)
+
+
+
+#Skills
