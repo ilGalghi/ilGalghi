@@ -1,11 +1,11 @@
-#👨‍💻 About me:
+# 👨‍💻 About me:
 - 👋 Hi, I’m @ilGalghi.
 - ‍🎓 I'm a Computer Engineering student.
 - 👀 I’m interested in PCs, sports and watches.
 
 from Rome, Italy 🇮🇹
 
-#🌍 Socials:
+# 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardogalgano/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)
 
@@ -65,4 +65,4 @@ from Rome, Italy 🇮🇹
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
-[![Office](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge)](https://www.office.com/)
+[![Suite Microsoft](https://img.shields.io/badge/microsoft-5E5E5E?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
