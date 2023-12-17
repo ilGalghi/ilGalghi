@@ -20,7 +20,7 @@ from Rome, Italy 🇮🇹
 [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)                <!-- Android -->
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.rust-lang.org/)                                  <!-- Linux -->
