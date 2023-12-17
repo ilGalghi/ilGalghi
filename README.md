@@ -65,4 +65,4 @@ from Rome, Italy 🇮🇹
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
-[![Suite Microsoft](https://img.shields.io/badge/Suite%20Microsoft-5E5E5E?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
+[![Suite Microsoft](https://img.shields.io/badge/Microsoft%365-9F7AEB?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
