@@ -12,29 +12,41 @@ from Rome, Italy 🇮🇹
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)
 
 # </> Languages:
+<!-- Linguaggi -->
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Cloudfare](https://skillicons.dev/icons?i=cloudflare)](https://www.r-project.org/)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
-[![adobeillustrator](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/it/products/illustrator.html)
-[![adobephotoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/it/products/photoshop.html)
-[![adobepremiere](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/it/products/premiere.html)
-[![blender](https://skillicons.dev/icons?i=blender)](https://golang.org/)
-[![androidstudio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)
-[![arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
-[![linux](https://skillicons.dev/icons?i=linux)](https://www.rust-lang.org/)
-[![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
+[![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)](https://flutter.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
+
+<!-- Android -->
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+
+<!-- Linux -->
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.rust-lang.org/)
+[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com/)
+
+<!-- Matematica -->
+[![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![Unreal Engine](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/)
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+<!-- Siti -->
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+
+<!-- Testo -->
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![Mark Down](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
+
+<!-- Windows -->
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://docs.microsoft.com/en-us/powershell/)
 
 
@@ -52,6 +64,7 @@ from Rome, Italy 🇮🇹
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)](https://www.eclipse.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
@@ -65,5 +78,7 @@ from Rome, Italy 🇮🇹
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudio&logoColor=white&style=for-the-badge)]([https://code.visualstudio.com/](https://visualstudio.microsoft.com/))
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
+[![Office](https://img.shields.io/badge/Office-21759B?logo=microsoft-office&logoColor=white&style=for-the-badge)](https://www.office.com/)
