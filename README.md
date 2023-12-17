@@ -51,6 +51,7 @@ from Rome, Italy 🇮🇹
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
