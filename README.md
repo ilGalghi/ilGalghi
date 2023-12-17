@@ -63,3 +63,7 @@ from Rome, Italy 🇮🇹
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
