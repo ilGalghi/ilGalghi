@@ -8,4 +8,3 @@
 from Rome, Italy 🇮🇹
 
 # 🌍 Socials:
-[![Logo OpenAI](https://openai.com/favicon.ico)](https://openai.com)
