@@ -54,6 +54,7 @@ from Rome, Italy 🇮🇹
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
