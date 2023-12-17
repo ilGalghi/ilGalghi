@@ -47,6 +47,7 @@ from Rome, Italy 🇮🇹
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://www.android.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
