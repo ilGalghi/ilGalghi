@@ -16,10 +16,10 @@ from Rome, Italy 🇮🇹
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)                <!-- Android -->
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
