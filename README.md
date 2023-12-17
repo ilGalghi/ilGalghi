@@ -1,11 +1,11 @@
-# 👨‍💻 About me:
+#👨‍💻 About me:
 - 👋 Hi, I’m @ilGalghi.
 - ‍🎓 I'm a Computer Engineering student.
 - 👀 I’m interested in PCs, sports and watches.
 
 from Rome, Italy 🇮🇹
 
-# 🌍 Socials:
+#🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardogalgano/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)
 
@@ -35,7 +35,7 @@ from Rome, Italy 🇮🇹
 
 
 
-# Skills
+# 🛠️ Skills:
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/aftereffects.html)
 [![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/audition.html)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/illustrator.html)
