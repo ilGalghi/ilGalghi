@@ -12,7 +12,7 @@ from Rome, Italy 🇮🇹
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)
 
 # </> Languages:
-<!-- Linguaggi -->
+<!-- Linguagg -->
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
