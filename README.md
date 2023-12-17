@@ -47,7 +47,7 @@ from Rome, Italy 🇮🇹
 
 
 <div align="left">
-  [<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo" />](https://www.adobe.com/it/products/aftereffects.html)
+  [<img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo" />](https://www.adobe.com/it/products/aftereffects.html)
   [<img src="https://img.shields.io/badge/Adobe Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge" height="30" alt="adobeaudition logo" />](https://www.adobe.com/it/products/audition.html)
   [<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo" />](https://www.adobe.com/it/products/illustrator.html)
   [<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo" />](https://www.adobe.com/it/products/photoshop.html)
