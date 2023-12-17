@@ -21,7 +21,6 @@ from Rome, Italy 🇮🇹
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
-
 <!-- Android -->
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
