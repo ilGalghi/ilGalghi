@@ -30,7 +30,7 @@ from Rome, Italy 🇮🇹
 <!-- Linux -->
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.rust-lang.org/)
-[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 <!-- Matematica -->
 [![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
