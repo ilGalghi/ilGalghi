@@ -21,9 +21,9 @@ from Rome, Italy 🇮🇹
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://www.scala-lang.org/)                <!-- Android -->
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)        <!-- Android -->
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.rust-lang.org/)                                  <!-- Linux -->
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)                                          <!-- Linux -->
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)                              <!-- Siti -->
@@ -43,8 +43,8 @@ from Rome, Italy 🇮🇹
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/photoshop.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://www.android.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
@@ -64,7 +64,7 @@ from Rome, Italy 🇮🇹
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudio&logoColor=white&style=for-the-badge)]([https://code.visualstudio.com/](https://visualstudio.microsoft.com/))
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
-[![Office](https://img.shields.io/badge/Office-f52525?logo=microsoft365&logoColor=white&style=for-the-badge)](https://www.office.com/)
+[![Office](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge)](https://www.office.com/)
