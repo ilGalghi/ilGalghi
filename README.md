@@ -57,6 +57,7 @@ from Rome, Italy 🇮🇹
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-A27BE7?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
@@ -65,4 +66,3 @@ from Rome, Italy 🇮🇹
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-A27BE7?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
