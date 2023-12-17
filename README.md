@@ -18,9 +18,9 @@ from Rome, Italy 🇮🇹
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
-[![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)](https://flutter.dev/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
+[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
 
 <!-- Android -->
