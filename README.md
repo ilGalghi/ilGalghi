@@ -64,7 +64,7 @@ from Rome, Italy 🇮🇹
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-#5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 [![Office](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge)](https://www.office.com/)
