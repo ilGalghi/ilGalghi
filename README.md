@@ -8,3 +8,4 @@
 from Rome, Italy 🇮🇹
 
 # 🌍 Socials:
+[![LinkedIn](URL_del_logo_di_LinkedIn)](https://www.linkedin.com/in/leonardogalgano/)
