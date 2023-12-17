@@ -20,7 +20,6 @@ from Rome, Italy 🇮🇹
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.perl.org/)
 
 <!-- Android -->
