@@ -8,5 +8,4 @@
 from Rome, Italy 🇮🇹
 
 # 🌍 Socials:
-<a href="https://linkedin.com/in/leonardogalgano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardogalgano" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/leonardogalgano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="leonardogalgano" height="30" width="40" /></a>
