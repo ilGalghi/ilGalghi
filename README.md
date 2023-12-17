@@ -40,6 +40,10 @@ from Rome, Italy 🇮🇹
 
 
 # Skills:
+<p align="left">Skills<br>REA</p>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
@@ -87,3 +91,5 @@ from Rome, Italy 🇮🇹
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
 </div>
+
+###
