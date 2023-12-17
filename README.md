@@ -39,4 +39,26 @@ from Rome, Italy 🇮🇹
 
 
 
-#Skills
+# Skills:
+[![Adobe After Effects](https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/aftereffects.html)
+[![Adobe Audition](https://img.shields.io/badge/Adobe Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/audition.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/premiere.html)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
+[![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+[![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/illustrator.html)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/products/premiere.html)
+[![Stack Overflow](https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
