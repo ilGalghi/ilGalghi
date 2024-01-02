@@ -49,6 +49,7 @@ LOGHI: https://simpleicons.org/
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/photoshop.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
+[![AMPL](https://img.shields.io/badge/AMPL-000000?&style=for-the-badge)](https://ampl.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
@@ -73,4 +74,5 @@ LOGHI: https://simpleicons.org/
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
