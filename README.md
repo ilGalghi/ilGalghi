@@ -76,3 +76,8 @@ LOGHI: https://simpleicons.org/
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=ilgalghi&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ilgalghi" /> </p>
