@@ -79,5 +79,5 @@ LOGHI: https://simpleicons.org/
 
 
 
-[![](https://visitcount.itsvg.in/api?id=ilgalghi&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ilgalghi" /> </p>
+# Statistics
+[![](https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/ilGalghi/)
