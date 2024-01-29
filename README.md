@@ -1,5 +1,5 @@
 # 👨‍💻 About me:
-- 👋 Hi, I’m @ilGalghi.
+- 👋 Hi, I’m Leonardo Galgano @ilGalghi.
 - ‍🎓 I'm a Computer Engineering student.
 - 👀 I’m interested in PCs, sports and watches.
 
