@@ -1,7 +1,7 @@
 # 👨‍💻 About me:
 - 👋 Hi, I’m Leonardo Galgano @ilGalghi.
 - ‍🎓 I'm a Computer Engineering student.
-- 👀 I’m interested in PCs, sports and watches.
+- 👀 I’m interested in PCs and sport.
 
 from Rome, Italy 🇮🇹
 
