@@ -8,7 +8,7 @@ from Rome, Italy 🇮🇹
 # 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardogalgano/)
 [![Goodle Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://g.dev/ilgalghi)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)
+<!---[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)-->
 
 
 
@@ -45,7 +45,6 @@ LOGHI: https://simpleicons.org/
 
 # 🛠️ Skills:
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/aftereffects.html)
-[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/audition.html)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/photoshop.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
@@ -72,6 +71,7 @@ LOGHI: https://simpleicons.org/
 [![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 
+<!--[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/audition.html)-->
 <!-- [![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)-->
 <!-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/) -->
 <!-- [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)-->
