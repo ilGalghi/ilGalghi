@@ -62,21 +62,21 @@ LOGHI: https://simpleicons.org/
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-A27BE7?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 
+<!-- [![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)-->
+<!-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/) -->
+<!-- [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)-->
+<!-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)-->
+<!-- [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-A27BE7?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)-->
 
 
 # 📊 Statistics:
