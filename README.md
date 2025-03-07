@@ -49,7 +49,6 @@ LOGHI: https://simpleicons.org/
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/photoshop.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
 [![AMPL](https://img.shields.io/badge/AMPL-000000?&style=for-the-badge)](https://ampl.com/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
@@ -62,7 +61,6 @@ LOGHI: https://simpleicons.org/
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
@@ -71,7 +69,9 @@ LOGHI: https://simpleicons.org/
 [![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 
+<!-- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/) -->
 <!--[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/audition.html)-->
+<!-- [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/) -->
 <!-- [![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)-->
 <!-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/) -->
 <!-- [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)-->
