@@ -8,6 +8,9 @@ from Rome, Italy 🇮🇹
 # 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardogalgano/)
 [![Goodle Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://g.dev/ilgalghi)
+<a href="https://mastodon.social/@ilGalghi" rel="me">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge"/>
+</a>
 <!---[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ilgalghi)-->
 
 
