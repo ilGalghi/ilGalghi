@@ -29,7 +29,6 @@ LOGHI: https://simpleicons.org/
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)        <!-- Android -->
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Mark Down](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)                             <!-- Testo -->
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
@@ -43,6 +42,7 @@ LOGHI: https://simpleicons.org/
 <!--  [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/) -->
 <!--[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)      -->                                    <!-- Linux -->
 <!--  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)    -->                        <!-- Windows -->
+<!--- [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)   -->     <!-- Android -->
 
 
 
