@@ -1,7 +1,7 @@
 # 👨‍💻 About me:
 - 👋 Hi, I’m Leonardo Galgano @ilGalghi.
-- ‍🎓 I'm a Computer Engineering student.
-- 👀 I’m interested in PCs and sports.
+- ‍🎓 BSc in Computer Engineering & **MSc student in AI and Robotics at Sapienza University**.
+<!--- - 👀 I’m interested in PCs and sports. -->
 
 from Rome, Italy 🇮🇹
 
