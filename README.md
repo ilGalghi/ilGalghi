@@ -10,9 +10,7 @@
 # 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonardogalgano/)
 [![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://g.dev/ilgalghi)
-<a href="https://mastodon.social/@ilGalghi" rel="me">
-  <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logoColor=white&style=for-the-badge)](https://ilgalghi.github.io)
 
 # </> Languages & Core Tech
 [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/)
