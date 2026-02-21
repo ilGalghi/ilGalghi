@@ -38,7 +38,6 @@
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 
 # 📊 Statistics
 [![](https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/ilGalghi/)
