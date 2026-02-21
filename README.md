@@ -3,6 +3,7 @@
 - 🎓 **MSc student in AI and Robotics** & BSc in Computer Engineering @ Sapienza University of Rome.
 - 🏎️ Autonomous Driving Engineer @ **[Sapienza Fast Charge](https://sapienzafastcharge.it/)** (Formula SAE Driverless): CV, SLAM, Sensor Fusion.
 - 🚀 Co-Founder & CTO @ **[Telcedo](https://www.telcedo.com/)**: AI-powered Industrial Digital Twins.
+- 🏆 **Achievements:** Back-to-back 1st Place Winner at **Reply Student Tech Clash** (2024 & 2025) focusing on Agentic AI, multi-agent workflows, and RAG architectures.
 - 🎯 **Currently focusing on:** C++, Python, Rust, ROS2.
 
 📍 Rome, Italy 🇮🇹
