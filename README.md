@@ -1,8 +1,8 @@
 # 👨‍💻 About me
 - 👋 Hi, I’m Leonardo Galgano (@ilGalghi).
 - 🎓 **MSc student in AI and Robotics** & BSc in Computer Engineering @ Sapienza University of Rome.
-- 🏎️ Autonomous Driving Engineer @ **[Sapienza Fast Charge](sapienzafastcharge.it)** (Formula SAE Driverless) - CV, SLAM, Sensor Fusion.
-- 🚀 Co-Founder & CTO @ **[Telcedo](telcedo.com)** - AI-powered Industrial Digital Twins.
+- 🏎️ Autonomous Driving Engineer @ **[Sapienza Fast Charge](https://sapienzafastcharge.it/)** (Formula SAE Driverless) - CV, SLAM, Sensor Fusion.
+- 🚀 Co-Founder & CTO @ **[Telcedo](https://www.telcedo.com/)** - AI-powered Industrial Digital Twins.
 - 🎯 **Currently focusing on:** C++, Python, Rust, ROS2.
 
 📍 Rome, Italy 🇮🇹
